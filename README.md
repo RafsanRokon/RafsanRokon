@@ -22,15 +22,4 @@ Skills: HTML / CSS / JS / REACT
 - 🌱 I’m currently learning Javascript 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/RafsanRokon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rafsan.rafi.75641297)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rafsanrokon/)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/RafsanRokon)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/RafsanRokon)](https://github.com/anuraghazra/github-readme-stats)
-
-vg' alt='github' height='40'>](https://github.com/https://github.com/RafsanRokon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rafsan.rafi.75641297)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rafsanrokon/)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/RafsanRokon)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/RafsanRokon)](https://github.com/anuraghazra/github-readme-stats)
-
+[
